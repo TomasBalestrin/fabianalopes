@@ -1,0 +1,6 @@
+# Materiais de origem (não publicados)
+*.pdf
+/4K8A*.jpg
+
+# Sistema
+.DS_Store
